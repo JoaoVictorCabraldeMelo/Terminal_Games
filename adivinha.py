@@ -1,7 +1,8 @@
 import random
-
+import os
 
 def jogar():
+    os.system('cls')
     print("")
     print("/*--------------------------------------*/")
     print("Bem Vindo ao Jogo de Adivinhação!!")

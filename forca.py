@@ -1,7 +1,9 @@
 import random
+import os
 
 def jogar ():
 
+    os.system('clear')
     display_abertura()
 
     palavras = abri_arquivo()

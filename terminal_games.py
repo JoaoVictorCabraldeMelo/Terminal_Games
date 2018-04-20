@@ -1,5 +1,8 @@
 import adivinha
 import forca
+import os
+
+os.system('clear')
 
 print("")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
